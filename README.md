@@ -1,16 +1,16 @@
-# mysportiesf
+# Prueba de concepto en Flutter
 
-A new Flutter project.
+# Mysporties 
 
-## Getting Started
+Es necesario seguir la siguiente guia: https://flutter.dev/docs/get-started/install, para contar con todas las
+herramientas necesarias para correr el proyecto en su ordenador, consiguiendo asi tambien los emuladores necesarios.
 
-This project is a starting point for a Flutter application.
+El siguiente link es una guia de como correr proyectos de Flutter en vscode: https://flutter.dev/docs/development/tools/vs-code.
+En el caso de no contar con vscode lo puede descargar desde el siguiente link: https://code.visualstudio.com/download.
+Con el siguiente comando, una vez que se cuente con lo recomendado en las anteriores guias, es posible instalar las dependencias necesarias para correr el proyecto:
+### `flutter pub get`
 
-A few resources to get you started if this is your first Flutter project:
+Y listo, siguiendo con la guia de vscode ya puede correr dicho proyecto.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### `Realizado por Santiago Tonarelli y Martina Severo.`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
